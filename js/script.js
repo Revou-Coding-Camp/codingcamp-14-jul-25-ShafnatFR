@@ -1,6 +1,6 @@
 function showContent() {
     // Tampilkan konten utama setelah nama diisi
-    document.querySelector('main').style.style.display = 'block';
+    document.querySelector('main').style.display = 'block';
 }
 
 // Fungsi untuk meminta nama pengguna
